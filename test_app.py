@@ -6,7 +6,7 @@ class TestHelloWorld(unittest.TestCase):
     def test_hello_world_message(self):
         self.assertEqual(
             hello_world(),
-            "Wrong Message!"
+            "Hello, DevOps!"
         )
 
     def test_hello_world_type(self):
