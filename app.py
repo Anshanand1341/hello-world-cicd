@@ -1,4 +1,5 @@
 # Hello World CI/CD application
+# Feature update for pull request testing
 
 def hello_world():
     return "Hello, DevOps!"
